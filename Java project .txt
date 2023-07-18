@@ -1,0 +1,55 @@
+Project
+
+Assessment Application
+
+The application should read questions stored in the questions.dat file and display one question at a time and wait for the user to enter the answer. The program should store the entered answers for all questions in a file. Correct answers are available in answers.dat file. Answers should be checked and final score should be printed when the user finally completes answering all questions.
+
+Questions.dat file
+
+Q1. What is the output of the following code snippet?
+
+int x = 5;
+System.out.println(x++ + " " + ++x);
+
+A. 5 7
+B. 6 7
+C. 6 6
+D. 5 5
+
+Q2. What is the correct way to dynamically allocate an array of integers in Java?
+
+A. int arr = new int[10];
+B. int arr(10);
+C. int[] arr = new int[10];
+D. int* arr = new int[10];
+
+Q3. Which keyword is used for dynamic memory allocation in Java?
+
+A. new
+B. malloc
+C. allocate
+D. create
+
+Q4. What is the difference between ++i and i++ in Java?
+
+A. Both increment the value of i.
+B. ++i increments the value before use, while i++ increments the value after use.
+C. ++i and i++ are equivalent in Java.
+D. ++i and i++ are not valid in Java.
+
+Q5. Which class should be used to work with strings in Java?
+
+A. System
+B. String
+C. Math
+D. Object
+
+
+**********************
+Answers.dat file
+
+Q1. B
+Q2. C
+Q3. A
+Q4. B
+Q5. B 

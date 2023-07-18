@@ -1,0 +1,36 @@
+Python Project
+
+Assessment Application
+
+The application should read questions stored in the questions.dat file and display one question at a time and wait for the user to enter the answer. The program should store the entered answers for all questions in a file. Correct answers are available in answers.dat file. Answers should be checked and Final score should be printed when the user finally completes answering all questions.
+
+Questions.dat file
+
+Q1. Which of the following is a valid way to define a function in Python?
+A) def my_function()
+B) function my_function()
+C) def my_function:
+D) function my_function:
+
+Q2. What is the purpose of the "elif" statement in Python?
+A) It is used to define a block of code to be executed repeatedly.
+B) It is used to handle exceptions and errors in Python.
+C) It is used to specify a default case in a switch statement.
+D) It is used to specify an alternative condition to check if the preceding "if" statement evaluates to false.
+
+Q3. What is the output of the following code snippet?
+
+x = [1, 2, 3, 4, 5]
+y = x[1:4]
+print(y)
+
+A) [1, 2, 3, 4]
+B) [2, 3, 4]
+C) [1, 2, 3]
+D) [2, 3, 4, 5]
+
+Answers.dat file
+
+Q1. A
+Q2. D
+Q3. B

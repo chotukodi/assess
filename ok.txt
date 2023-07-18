@@ -1,0 +1,38 @@
+Q1. What is the output of the following code snippet?
+
+int x = 5;
+std::cout << x++ << " " << ++x << std::endl;
+
+A. 5 7
+B. 6 7
+C. 6 6
+D. 5 5
+**
+Q2. What is the correct way to dynamically allocate an array of integers in C++?
+
+A. int arr = new int[10];
+B. int arr(10);
+C. int arr[] = new int[10];
+D. int* arr = new int[10];
+**
+Q3. Which operator is used for dynamic memory allocation in C++?
+
+A. new
+B. malloc
+C. allocate
+D. create
+**
+Q4. What is the difference between ++i and i++ in C++?
+
+A. Both increment the value of i.
+B. ++i increments the value before use, while i++ increments the value after use.
+C. ++i and i++ are equivalent in C++.
+D. ++i and i++ are not valid in C++.
+**
+Q5. Which header file should be included to work with strings in C++?
+
+A. <iostream>
+B. <string>
+C. <stdio.h>
+D. <cstring>
+**

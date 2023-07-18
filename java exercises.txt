@@ -1,0 +1,17 @@
+Write a Java program to calculate the sum of two numbers.
+
+Write a Java program to convert temperature from Celsius to Fahrenheit.
+
+Write Java programs to find factorial of a number, check if a number is prime, etc.
+
+Write Java programs to reverse a string, check for palindrome, etc.
+
+Write a Java program to find the maximum and minimum values in an array.
+
+Create a Java class to model a bank account and perform transactions.
+
+Write a Java program to handle arithmetic exceptions.
+
+Create a Java program to read data from a file and perform operations on it.
+
+Implement a Java program to store and manipulate a collection of student records.

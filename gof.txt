@@ -1,0 +1,35 @@
+The Gang of Four (GoF) design patterns are a set of 23 software design patterns described in the book "Design Patterns: Elements of Reusable Object-Oriented Software." These patterns were authored by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides. Here is an overview of the GoF design patterns:
+
+Creational Patterns:
+
+Singleton Pattern: Ensures a class has only one instance, and provides a global point of access to it.
+Factory Method Pattern: Defines an interface for creating objects, but subclasses decide which class to instantiate.
+Abstract Factory Pattern: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+Builder Pattern: Constructs complex objects step by step, separating the construction logic from the object's representation.
+Prototype Pattern: Creates new objects by copying an existing object, thus avoiding the need for costly object creation.
+Structural Patterns:
+6. Adapter Pattern: Converts the interface of a class into another interface that clients expect, enabling incompatible classes to work together.
+
+Bridge Pattern: Decouples an abstraction from its implementation, allowing them to vary independently.
+Composite Pattern: Treats individual objects and groups of objects uniformly, forming a tree-like structure.
+Decorator Pattern: Dynamically adds new behavior to objects by wrapping them with decorator objects.
+Facade Pattern: Provides a simplified interface to a complex subsystem, making it easier to use and understand.
+Flyweight Pattern: Shares common state among multiple objects to conserve memory by reducing object creation.
+Behavioral Patterns:
+12. Observer Pattern: Defines a one-to-many dependency between objects, so that when one object changes state, all its dependents are notified and updated automatically.
+
+Strategy Pattern: Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
+Template Method Pattern: Defines the skeleton of an algorithm in a base class, allowing subclasses to redefine certain steps.
+Command Pattern: Encapsulates a request as an object, allowing users to parameterize clients with queued requests.
+Iterator Pattern: Provides a way to access elements of an aggregate object sequentially without exposing its underlying representation.
+Mediator Pattern: Defines an object that encapsulates how a set of objects interact, promoting loose coupling between them.
+Memento Pattern: Captures and restores an object's internal state without violating encapsulation.
+State Pattern: Allows an object to alter its behavior when its internal state changes.
+Strategy Pattern: Defines a family of algorithms, encapsulates each one, and makes them interchangeable.
+Visitor Pattern: Separates an algorithm from an object structure on which it operates, allowing the addition of new operations without modifying the objects.
+These patterns provide solutions for different design challenges, promoting software design principles such as encapsulation, flexibility, and reusability. It's important to choose the appropriate pattern based on the specific requirements and design goals of your application.
+
+
+
+
+

@@ -1,0 +1,97 @@
+Module-1:
+Discover data analysis
+https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/
+Get started building with Power BI
+https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/
+
+**********************************************************************************************************
+
+Module-2:
+Prepare data for analysis
+
+https://docs.microsoft.com/en-us/learn/modules/get-data/
+
+Microsoft PowerBI Software
+https://www.microsoft.com/en-us/download/details.aspx?id=58494
+
+
+Microsoft PowerBI Report Builder software
+
+https://www.microsoft.com/en-us/download/details.aspx?id=58158
+
+
+Tutorial: Analyze webpage data by using Power BI Desktop 
+
+https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-tutorial-importing-and-analyzing-data-from-a-web-page
+
+
+**********************************************************************************************************
+
+
+Module-3: Clean, transform and load data in Power BI
+
+https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/
+
+
+**********************************************************************************************************
+
+Module-4: Design a data model in Power BI
+
+https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/
+
+
+**********************************************************************************************************
+
+Module-5: Introduction to creating measures using DAX in Power BI
+https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/
+
+
+**********************************************************************************************************
+
+Module-6: Optimize a model for performance in Power BI
+
+https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/
+
+
+Lab-6 Exercise Manual
+
+https://labclient.labondemand.com/InstructionsWindow/be7e3939-1e8e-46c2-8d12-fa63162ea9fc?rc=10
+
+**********************************************************************************************************
+
+Learn DAX basics in Power BI Desktop
+
+https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics
+
+**********************************************************************************************************
+
+Module-7: 
+Work with Power BI visuals
+https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/
+Create a data-driven story with Power BI
+https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/
+
+**********************************************************************************************************
+
+Module-8: Create dashboards in Power BI
+https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/
+
+
+**********************************************************************************************************
+
+
+Module-9: 
+Perform analytics in Power BI
+https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/
+
+Work with AI visuals
+https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/
+
+**********************************************************************************************************
+
+Module-10: Create and manage Workspaces in Power BI
+
+https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/
+
+**********************************************************************************************************
+
